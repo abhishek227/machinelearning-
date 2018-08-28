@@ -1,3 +1,3 @@
-Final Year Project on Face classification and detection
+Final Year Project on Face Recognition Based on Convolutional
+Neural Network
 
-Real-time face detection and emotion/gender classification
